@@ -1,5 +1,4 @@
-package Functions;
-
+package Functions.Concepts;
 import java.util.Scanner;
 
 public class Questions {

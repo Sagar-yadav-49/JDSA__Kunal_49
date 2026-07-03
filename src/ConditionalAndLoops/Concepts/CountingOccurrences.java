@@ -1,4 +1,4 @@
-package ConditionalAndLoops;
+package ConditionalAndLoops.Concepts;
 // Q. count the number of occurrences of any particular digit in any given number
 // ex:- 12375767 , count for 7 -> 3
 import java.util.Scanner;

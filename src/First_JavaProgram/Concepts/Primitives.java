@@ -1,5 +1,4 @@
-package First_JavaProgram;
-
+package First_JavaProgram.Concepts;
 public class Primitives {
     public static void main(String[] args) {
         // Primitives datatypes:- which we cannot break into further

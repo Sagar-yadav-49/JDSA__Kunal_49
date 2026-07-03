@@ -1,4 +1,4 @@
-package SwitchAndNestedCase;
+package SwitchAndNestedCase.Concepts;
 
 import java.util.Scanner;
 

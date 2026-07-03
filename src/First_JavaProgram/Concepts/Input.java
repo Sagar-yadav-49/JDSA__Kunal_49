@@ -1,4 +1,4 @@
-package First_JavaProgram;
+package First_JavaProgram.Concepts;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package ConditionalAndLoops;
+package ConditionalAndLoops.Concepts;
 // Q. Largest of numbers
 import java.util.Scanner;
 

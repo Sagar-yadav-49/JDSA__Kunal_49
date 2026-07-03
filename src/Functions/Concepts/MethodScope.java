@@ -1,4 +1,4 @@
-package Functions;
+package Functions.Concepts;
 // Scope:- where we can access our variables
 public class MethodScope {
     // MethodScope:- if you're defining variables inside any function you can only access it inside that particular function

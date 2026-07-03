@@ -1,5 +1,4 @@
-package First_JavaProgram;
-
+package First_JavaProgram.Concepts;
 public class TypeCasting {
     public static void main(String[] args) {
         // automatically type conversion conditions:-

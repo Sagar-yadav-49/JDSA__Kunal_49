@@ -1,5 +1,4 @@
-package Functions;
-
+package Functions.Concepts;
 public class PalindromeNumber {
     public static void main(String[] args) {
         isPalindrome(10);

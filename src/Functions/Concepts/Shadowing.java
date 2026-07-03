@@ -1,5 +1,4 @@
-package Functions;
-
+package Functions.Concepts;
 public class Shadowing {
     static int x=90; // this will be shadowed at line 8
     public static void main(String[] args) {

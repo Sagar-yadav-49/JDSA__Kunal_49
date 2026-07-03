@@ -1,5 +1,4 @@
-package Functions;
-
+package Functions.Concepts;
 public class IntegerParameter {
     public static void main(String[] args) {
         int sum=sum(5,10);

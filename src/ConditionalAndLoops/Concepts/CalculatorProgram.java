@@ -1,4 +1,4 @@
-package ConditionalAndLoops;
+package ConditionalAndLoops.Concepts;
 // Q. Do operations acc to user need, just continue untill user press 'x' or 'X'
 import java.util.Scanner;
 

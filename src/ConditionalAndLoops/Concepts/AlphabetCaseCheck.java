@@ -1,4 +1,4 @@
-package ConditionalAndLoops;
+package ConditionalAndLoops.Concepts;
 // Q. Take character as input and check its case (uppercase or lowercase)
 import java.util.Scanner;
 
